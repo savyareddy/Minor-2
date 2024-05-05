@@ -1,6 +1,5 @@
 # ARCHITECT AND BUILD RIDE SHARING APP TO END AWS CLOUD WEB APPLICATION FROM SCRATCH
 
-Carpooling Service where people can share rides with other people travelling on the same route<br>
 **Project Idea:**<br>
 Ride-sharing apps are integral to modern transportation, offering solutions to everyday challenges such as traffic congestion and parking difficulties.
 They provide convenience and efficiency by reducing the need for personal vehicle usage in urban areas.
